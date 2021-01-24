@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+  }
+  header{
+    background-color:  #3a4660;
+    border-style: none;
+    border: 0px;
+    color: #c9af98;
+    text-align: center;
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.first{
+    
+    color:#3a4660;
+    padding: 45px;
+
+}
+
+.btn-group{
+  padding: 10px;
+}
+.one{
+    /* display: flex;
+    flex-wrap: nowrap; */
+    padding: 20px 5px;
+     text-align: center;
+     margin:auto;
+  
+}
+.two{
+    text-align: ;
+}
+nav a{
+    color: #c9af98; 
+    text-decoration: none;
+    padding:10px;
+}
+nav a:hover{
+    color: rgb(252, 251, 250);
+}
+.nav{
+    background-color:  #3a4660;
+    border-style: none;
+    border: 0px;
+    color: #c9af98;
+    text-align: right;
+    
+    }
+body{
+    font-family: 'Yusei Magic','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #3a4660;
+    font-size: medium;
+    font-weight: lighter;
+    background-color:#ed8a63c5;
+   text-align: center;
+}
+.about{
+    margin-top: 5px;
+    padding-top: 8px;
+    
+}
+.link{
+    padding-top: 30px;
+    margin-top: 0px;
+}
+
+
+h3{
+    background-color:  #ffffff;
+    letter-spacing: 10px;
+    color:#845007;
+    margin: 20px;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 8px;
+    
+}
+.form{
+    box-sizing: border-box;
+    margin: 5px 5px;
+    padding: 5px;
+   text-align:center;
+    
+}
+#error_message{
+    margin-bottom: 20px;
+    background: #fe8b8e;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+  }
+
+table{
+    text-align: left;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+
+input[type="submit"],
+input[type="reset"]
+{
+    background-color:#ffffff ;
+    color: #845007;
+    font-weight: bold;
+    font-family: 'Yusei Magic','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:2px 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+table,tr,td{
+    border:0px solid black;
+    border-collapse: collapse;
+    padding:10px;
+
+}
+td{
+    background-color:#3a4660 ;
+    color: #c9af98;
+}
+footer a:hover{
+    color: rgb(252, 251, 250);
+}
+footer a{
+    color: #c9af98; 
+    text-decoration: none;
+    text-align: left;
+}
+footer{
+    background-color:  #3a4660;
+    border-style: none;
+    border: 0px;
+    color: #c9af98;
+    margin-top: 15px;
+    margin-bottom: 0;
+    
+
+}
+
